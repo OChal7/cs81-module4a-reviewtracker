@@ -1,3 +1,5 @@
+/// GITHUB URL   https://github.com/OChal7/cs81-module4a-reviewtracker
+
 // Weekly reading log
 const readingLog = [
   { day: "Monday", book: "Dune", minutes: 30 },
@@ -76,3 +78,4 @@ console.log("Total minutes read:", totalReadingMinutes(readingLog)); // prints w
 console.log("Most read book:", mostReadBook(readingLog)); // shows most read book
 
 addReadBook("Sunday", "Star Wars Episode IV", 25); // Test case: new reading entry
+
